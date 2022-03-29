@@ -1,0 +1,72 @@
+<?xml-stylesheet type="text/css" href="program5.css"?>
+<students>
+<student>
+	<name>
+	Darshan
+	</name>
+	<age>
+	7th Sem
+	</age>
+	<usn>
+	1BI17CS039
+	</usn>
+	<year>
+	2017
+	</year>
+	<branch>
+	CSE
+	</branch>
+	<email>
+	darshan@gmail.com
+	</email>
+	<college>
+	BIT
+	</college>
+</student>
+<student>
+	<name>
+	Bhavana
+	</name>
+	<age>
+	7th Sem
+	</age>
+	<usn>
+	1BI17CS012
+	</usn>
+	<year>
+	2017
+	</year>
+	<branch>
+	CSE
+	</branch>
+	<email>
+	bhavana@gmail.com
+	</email>
+	<college>
+	BIT
+	</college>
+</student>
+<student>
+	<name>
+	Dhanush
+	</name>
+	<age>
+	7th Sem
+	</age>
+	<usn>
+	1BI17CS042
+	</usn>
+	<year>
+	2017
+	</year>
+	<branch>
+	CSE
+	</branch>
+	<email>
+	dhanushbt@gmail.com
+	</email>
+	<college>
+	BIT
+	</college>
+</student>
+</students>
